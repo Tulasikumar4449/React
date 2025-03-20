@@ -1,0 +1,12 @@
+using system
+namespace dotnet
+{
+class program
+{
+static void Main(String args[])
+{
+	string name="john"
+	Console.WriteLine(name)
+}
+}
+}
